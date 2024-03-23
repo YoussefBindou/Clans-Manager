@@ -1,7 +1,7 @@
 # Dynasty Dev Centre
 
 # Dynasty-DiscordBot-PrivacyPolicy
-Privacy Policy of Events DiscordBot
+Privacy Policy of Clans Manager DiscordBot
 
 # Privacy Policy
 
@@ -10,8 +10,8 @@ Privacy Policy of Events DiscordBot
 
 ## What information is stored?
 
-- Events stores your userid if you've found a bug.
-- Events also stores your userid if you were in our [Support Server](https://discord.gg/5sWatSkSCY)
+- Clans Manager stores your userid if you've found a bug.
+- Clans Manager also stores your userid if you were in our [Support Server](https://discord.gg/5sWatSkSCY)
 - If at any time you were blacklisted, temporary or permanent from our bot, **blacklist information will be stored**.
 - When you get blacklisted **your userid, the admins userid, the date, and reason are stored**.
 - If you get muted, kicked or banned from a guild, **your userid is stored**.
@@ -32,8 +32,8 @@ Privacy Policy of Events DiscordBot
 
 ##  Who can read this data?
 
-- **People can only see if you're blacklisted when commands don't work**. The **detailed information can only be seen by Events Admins/Developers**.
-- **All Muted, Mutedrole, Prefix, and Modlog data can be accessed by Events Admins/Developers**. Only **server administrator/moderators can see their own guild modlogs other if they wish to make it public**.
+- **People can only see if you're blacklisted when commands don't work**. The **detailed information can only be seen by Clans Manager Admins/Developers**.
+- **All Muted, Mutedrole, Prefix, and Modlog data can be accessed by Clans Manager Admins/Developers**. Only **server administrator/moderators can see their own guild modlogs other if they wish to make it public**.
 - **Suggestions and/or bug reports can be seen by anyone in our [Support Server](https://discord.gg/5sWatSkSCY)**
 
 ## Questions and Concerns.
